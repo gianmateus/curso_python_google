@@ -1,0 +1,4 @@
+2025-10-27 11:47:10.759284 - Iniciando organização
+2025-10-27 11:47:10.762234 - Movido CamScanner 23.10.25 14.55.pdf para Documentos
+2025-10-27 11:47:10.763235 - Movido Clean Code ( PDFDrive.com ).pdf para Outros
+2025-10-27 11:47:10.763395 - Organização concluída
